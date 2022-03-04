@@ -2,5 +2,5 @@
 - 👀 I’m interested in data analytics, big data and data mining.
 - 🌱 I’m currently learning data analytics.
 - curious, constantly improving my knowledge.
-- 📫 How to reach me : "antoniodellagatta13@gmail.com
+
 
